@@ -21,7 +21,7 @@ GitHub Desktop retrieves any changes that have happened to your repository onlin
 **What happens when you pull changes/commits?**
 You summon all the updates made to whatever branch of the repository you're working on to your machine.  
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
-You should generally pull, then fetch so you have the most updated versions of files in your repository, then push your changes, then fetch any new changes, and so on.
+You should generally fetch, then pull, then push.
 **What happens when you push commits from your local repository?**
 When you push commits, they are pushed to the remote repository from your machine.  
 **What is the URL for the Github glossary?**
